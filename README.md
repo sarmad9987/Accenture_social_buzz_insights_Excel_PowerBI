@@ -24,11 +24,11 @@ As a data analyst, I have been tasked with analyzing the client's data to uncove
 
 ```SUMIF```
 
-**3. Count of top scoring cateogry **
+**3. Count of top scoring cateogry**
 
 ```COUNTROWS(FILTER (Reactions, Reactions[Category] = "Animals"))```
 
-**4. Count of unique categories **
+**4. Count of unique categories**
 
 ```distinct_categories = CALCULATE(DISTINCTCOUNT(Reactions[Category]))```
 
