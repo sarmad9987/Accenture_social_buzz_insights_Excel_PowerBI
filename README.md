@@ -51,4 +51,6 @@ As a data analyst, I have been tasked with analyzing the client's data to uncove
 ```distinct_categories = CALCULATE(DISTINCTCOUNT(Reactions[Category]))```
 
 
+### Certificate:
+![Screenshot 2023-02-06 140305](https://user-images.githubusercontent.com/90148389/216991694-bfe45aaa-158d-49ff-9595-fb3548efad03.png)
 
