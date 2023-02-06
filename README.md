@@ -36,15 +36,17 @@ As a data analyst, I have been tasked with analyzing the client's data to uncove
 
 ```Vlookup```
 
-**2. Aggregating scores with top 5 categories**
+**2. Power query for data transformation**
+
+**3. Aggregating scores with top 5 categories**
 
 ```SUMIF```
 
-**3. Count of top scoring cateogry**
+**4. Count of top scoring cateogry**
 
 ```COUNTROWS(FILTER (Reactions, Reactions[Category] = "Animals"))```
 
-**4. Count of unique categories**
+**5. Count of unique categories**
 
 ```distinct_categories = CALCULATE(DISTINCTCOUNT(Reactions[Category]))```
 
