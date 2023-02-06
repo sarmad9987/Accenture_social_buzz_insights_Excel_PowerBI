@@ -13,7 +13,8 @@ As a data analyst, I have been tasked with analyzing the client's data to uncove
 
 1. The top 5 most popular categories, in descending order, were animals, science, healthy eating, technology, and food. Animals had an aggregate score of 74965. Healthy eating is more popular than food and science and technology also rank high, indicating a preference for factual and informative content.
 
-![Screenshot 2023-02-06 002537](https://user-images.githubusercontent.com/90148389/216855596-f60809dd-2a1a-477f-bbbf-b12922f4e7bd.png)
+![Screenshot 2023-02-06 002733](https://user-images.githubusercontent.com/90148389/216855684-02af44a9-bef1-4c05-9f6d-d9bfb807ca1e.png)
+
 
 
 
