@@ -22,6 +22,10 @@ As a data analyst, I have been tasked with analyzing the client's data to uncove
 ![Screenshot 2023-02-06 003145](https://user-images.githubusercontent.com/90148389/216856227-9c95c868-98c4-4e23-b464-a5908644ad07.png)
 
 
+### Complete Dashboard:
+
+![Screenshot 2023-02-06 003607](https://user-images.githubusercontent.com/90148389/216856369-4619e2dd-82a7-43de-8788-2cfdbc0c68d6.png)
+
 
 
 ## Skills and concepts Used to carry complete the project. (EXCEL and PowerBI)
