@@ -9,6 +9,12 @@ This repository is part of my virtual inetrnship in data analytics and visualiza
 As a data analyst, I have been tasked with analyzing the client's data to uncover insights, create visualizations, and present my findings. To accomplish this, I utilized Microsoft Excel for data cleaning and generating insights, Microsoft Power BI for data visualization, and Microsoft PowerPoint for creating presentation slides. Due to their rapid growth, the client lacks the internal resources to effectively manage their data.
 
 
+### Insights:
+
+1. The top 5 most popular categories, in descending order, were animals, science, healthy eating, technology, and food. Animals had an aggregate score of 74965. Healthy eating is more popular than food and science and technology also rank high, indicating a preference for factual and informative content.
+
+![Screenshot 2023-02-06 002537](https://user-images.githubusercontent.com/90148389/216855596-f60809dd-2a1a-477f-bbbf-b12922f4e7bd.png)
+
 
 
 
