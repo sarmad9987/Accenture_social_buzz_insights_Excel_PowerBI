@@ -3,7 +3,7 @@
 ![accenture-logo](https://user-images.githubusercontent.com/90148389/216854479-4858e08e-0f6a-4f7b-89da-d32615bf792c.png)
 
 ### Accenture data analytics and visualization virtual internship
-This repository is part of my virtual inetrnship in data analytics and visualization intersnhip and I have explained how I carried out and completed the project.
+This repository is part of my virtual internship in data analytics and visualization and I have explained how I carried out and completed the project.
 
 ## Introduction:
 As a data analyst, I have been tasked with analyzing the client's data to uncover insights, create visualizations, and present my findings. To accomplish this, I utilized Microsoft Excel for data cleaning and generating insights, Microsoft Power BI for data visualization, and Microsoft PowerPoint for creating presentation slides. Due to their rapid growth, the client lacks the internal resources to effectively manage their data.
