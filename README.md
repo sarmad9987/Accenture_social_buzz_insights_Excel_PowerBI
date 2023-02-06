@@ -8,7 +8,7 @@ This repository is part of my virtual inetrnship in data analytics and visualiza
 ## Introduction:
 As a data analyst, I have been tasked with analyzing the client's data to uncover insights, create visualizations, and present my findings. To accomplish this, I utilized Microsoft Excel for data cleaning and generating insights, Microsoft Power BI for data visualization, and Microsoft PowerPoint for creating presentation slides. Due to their rapid growth, the client lacks the internal resources to effectively manage their data.
 
-[click here for code](https://github.com/sarmad9987/Urdu-news-sentiment-analysis-for-trading-in-Karachi-Stock-exchange/blob/main/Model%20training/Model%20training%20.ipynb)
+[click here for cleaned dataset](https://github.com/sarmad9987/Accenture_social_buzz_insights_Excel_PowerBI/blob/main/Reactions.xlsx)
 
 
 ### Insights:
